@@ -1,0 +1,1234 @@
+[
+  {
+    "id": 1001,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 1,
+    "nameEnglish": "Revelation",
+    "nameArabic": "كتاب بدء الوحى",
+    "hadithCount": 7
+  },
+  {
+    "id": 1002,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 2,
+    "nameEnglish": "Belief",
+    "nameArabic": "كتاب الإيمان",
+    "hadithCount": 51
+  },
+  {
+    "id": 1003,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 3,
+    "nameEnglish": "Knowledge",
+    "nameArabic": "كتاب العلم",
+    "hadithCount": 76
+  },
+  {
+    "id": 1004,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 4,
+    "nameEnglish": "Ablutions (Wudu')",
+    "nameArabic": "كتاب الوضوء",
+    "hadithCount": 113
+  },
+  {
+    "id": 1005,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 5,
+    "nameEnglish": "Bathing (Ghusl)",
+    "nameArabic": "كتاب الغسل",
+    "hadithCount": 45
+  },
+  {
+    "id": 1006,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 6,
+    "nameEnglish": "Menstrual Periods",
+    "nameArabic": "كتاب الحيض",
+    "hadithCount": 37
+  },
+  {
+    "id": 1007,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 7,
+    "nameEnglish": "Rubbing hands and feet with dust (Tayammum)",
+    "nameArabic": "كتاب التيمم",
+    "hadithCount": 15
+  },
+  {
+    "id": 1008,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 8,
+    "nameEnglish": "Prayers (Salat)",
+    "nameArabic": "كتاب الصلاة",
+    "hadithCount": 167
+  },
+  {
+    "id": 1009,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 9,
+    "nameEnglish": "Times of the Prayers",
+    "nameArabic": "كتاب مواقيت الصلاة",
+    "hadithCount": 77
+  },
+  {
+    "id": 1010,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 10,
+    "nameEnglish": "Call to Prayers (Adhaan)",
+    "nameArabic": "كتاب الأذان",
+    "hadithCount": 266
+  },
+  {
+    "id": 1011,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 11,
+    "nameEnglish": "Friday Prayer",
+    "nameArabic": "كتاب الجمعة",
+    "hadithCount": 65
+  },
+  {
+    "id": 1012,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 12,
+    "nameEnglish": "Fear Prayer",
+    "nameArabic": "كتاب صلاة الخوف",
+    "hadithCount": 6
+  },
+  {
+    "id": 1013,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 13,
+    "nameEnglish": "The Two Festivals (Eids)",
+    "nameArabic": "كتاب العيدين",
+    "hadithCount": 37
+  },
+  {
+    "id": 1014,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 14,
+    "nameEnglish": "Witr Prayer",
+    "nameArabic": "كتاب الوتر",
+    "hadithCount": 15
+  },
+  {
+    "id": 1015,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 15,
+    "nameEnglish": "Invoking Allah for Rain (Istisqaa)",
+    "nameArabic": "كتاب الاستسقاء",
+    "hadithCount": 34
+  },
+  {
+    "id": 1016,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 16,
+    "nameEnglish": "Eclipses",
+    "nameArabic": "كتاب الكسوف",
+    "hadithCount": 24
+  },
+  {
+    "id": 1017,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 17,
+    "nameEnglish": "Prostration During Recital of Qur'an",
+    "nameArabic": "كتاب سجود القرآن",
+    "hadithCount": 13
+  },
+  {
+    "id": 1018,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 18,
+    "nameEnglish": "Shortening the Prayers (At-Taqseer)",
+    "nameArabic": "كتاب التقصير",
+    "hadithCount": 39
+  },
+  {
+    "id": 1019,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 19,
+    "nameEnglish": "Prayer at Night (Tahajjud)",
+    "nameArabic": "كتاب التهجد",
+    "hadithCount": 63
+  },
+  {
+    "id": 1020,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 20,
+    "nameEnglish": "Virtues of Prayer at Masjid Makkah and Madinah",
+    "nameArabic": "كتاب فضل الصلاة فى مسجد مكة والمدينة",
+    "hadithCount": 9
+  },
+  {
+    "id": 1021,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 21,
+    "nameEnglish": "Actions while Praying",
+    "nameArabic": "كتاب العمل فى الصلاة",
+    "hadithCount": 27
+  },
+  {
+    "id": 1022,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 22,
+    "nameEnglish": "Forgetfulness in Prayer",
+    "nameArabic": "كتاب السهو",
+    "hadithCount": 14
+  },
+  {
+    "id": 1023,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 23,
+    "nameEnglish": "Funerals (Al-Janaa'iz)",
+    "nameArabic": "كتاب الجنائز",
+    "hadithCount": 148
+  },
+  {
+    "id": 1024,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 24,
+    "nameEnglish": "Obligatory Charity Tax (Zakat)",
+    "nameArabic": "كتاب الزكاة",
+    "hadithCount": 112
+  },
+  {
+    "id": 1025,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 25,
+    "nameEnglish": "Hajj (Pilgrimage)",
+    "nameArabic": "كتاب الحج",
+    "hadithCount": 247
+  },
+  {
+    "id": 1026,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 26,
+    "nameEnglish": "`Umrah (Minor pilgrimage)",
+    "nameArabic": "كتاب العمرة",
+    "hadithCount": 30
+  },
+  {
+    "id": 1027,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 27,
+    "nameEnglish": "Pilgrims Prevented from Completing the Pilgrimage",
+    "nameArabic": "كتاب المحصر",
+    "hadithCount": 15
+  },
+  {
+    "id": 1028,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 28,
+    "nameEnglish": "Penalty of Hunting while on Pilgrimage",
+    "nameArabic": "كتاب جزاء الصيد",
+    "hadithCount": 46
+  },
+  {
+    "id": 1029,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 29,
+    "nameEnglish": "Virtues of Madinah",
+    "nameArabic": "كتاب فضائل المدينة",
+    "hadithCount": 24
+  },
+  {
+    "id": 1030,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 30,
+    "nameEnglish": "Fasting",
+    "nameArabic": "كتاب الصوم",
+    "hadithCount": 112
+  },
+  {
+    "id": 1031,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 31,
+    "nameEnglish": "Praying at Night in Ramadaan (Taraweeh)",
+    "nameArabic": "كتاب صلاة التراويح",
+    "hadithCount": 6
+  },
+  {
+    "id": 1032,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 32,
+    "nameEnglish": "Virtues of the Night of Qadr",
+    "nameArabic": "كتاب فضل ليلة القدر",
+    "hadithCount": 11
+  },
+  {
+    "id": 1033,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 33,
+    "nameEnglish": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+    "nameArabic": "كتاب الاعتكاف",
+    "hadithCount": 21
+  },
+  {
+    "id": 1034,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 34,
+    "nameEnglish": "Sales and Trade",
+    "nameArabic": "كتاب البيوع",
+    "hadithCount": 184
+  },
+  {
+    "id": 1035,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 35,
+    "nameEnglish": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+    "nameArabic": "كتاب السلم",
+    "hadithCount": 16
+  },
+  {
+    "id": 1036,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 36,
+    "nameEnglish": "Shuf'a",
+    "nameArabic": "كتاب الشفعة",
+    "hadithCount": 3
+  },
+  {
+    "id": 1037,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 37,
+    "nameEnglish": "Hiring",
+    "nameArabic": "كتاب الإجارة",
+    "hadithCount": 25
+  },
+  {
+    "id": 1038,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 38,
+    "nameEnglish": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+    "nameArabic": "كتاب الحوالات",
+    "hadithCount": 3
+  },
+  {
+    "id": 1039,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 39,
+    "nameEnglish": "Kafalah",
+    "nameArabic": "كتاب الكفالة",
+    "hadithCount": 9
+  },
+  {
+    "id": 1040,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 40,
+    "nameEnglish": "Representation, Authorization, Business by Proxy",
+    "nameArabic": "كتاب الوكالة",
+    "hadithCount": 18
+  },
+  {
+    "id": 1041,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 41,
+    "nameEnglish": "Agriculture",
+    "nameArabic": "كتاب المزارعة",
+    "hadithCount": 28
+  },
+  {
+    "id": 1042,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 42,
+    "nameEnglish": "Distribution of Water",
+    "nameArabic": "كتاب المساقاة",
+    "hadithCount": 31
+  },
+  {
+    "id": 1043,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 43,
+    "nameEnglish": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+    "nameArabic": "كتاب فى الاستقراض",
+    "hadithCount": 24
+  },
+  {
+    "id": 1044,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 44,
+    "nameEnglish": "Khusoomaat",
+    "nameArabic": "كتاب الخصومات",
+    "hadithCount": 15
+  },
+  {
+    "id": 1045,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 45,
+    "nameEnglish": "Lost Things Picked up by Someone (Luqatah)",
+    "nameArabic": "كتاب فى اللقطة",
+    "hadithCount": 15
+  },
+  {
+    "id": 1046,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 46,
+    "nameEnglish": "Oppressions",
+    "nameArabic": "كتاب المظالم",
+    "hadithCount": 43
+  },
+  {
+    "id": 1047,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 47,
+    "nameEnglish": "Partnership",
+    "nameArabic": "كتاب الشركة",
+    "hadithCount": 22
+  },
+  {
+    "id": 1048,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 48,
+    "nameEnglish": "Mortgaging",
+    "nameArabic": "كتاب الرهن",
+    "hadithCount": 8
+  },
+  {
+    "id": 1049,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 49,
+    "nameEnglish": "Manumission of Slaves",
+    "nameArabic": "كتاب العتق",
+    "hadithCount": 41
+  },
+  {
+    "id": 1050,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 50,
+    "nameEnglish": "Makaatib",
+    "nameArabic": "كتاب المكاتب",
+    "hadithCount": 6
+  },
+  {
+    "id": 1051,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 51,
+    "nameEnglish": "Gifts",
+    "nameArabic": "كتاب الهبة وفضلها والتحريض عليها",
+    "hadithCount": 68
+  },
+  {
+    "id": 1052,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 52,
+    "nameEnglish": "Witnesses",
+    "nameArabic": "كتاب الشهادات",
+    "hadithCount": 50
+  },
+  {
+    "id": 1053,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 53,
+    "nameEnglish": "Peacemaking",
+    "nameArabic": "كتاب الصلح",
+    "hadithCount": 20
+  },
+  {
+    "id": 1054,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 54,
+    "nameEnglish": "Conditions",
+    "nameArabic": "كتاب الشروط",
+    "hadithCount": 24
+  },
+  {
+    "id": 1055,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 55,
+    "nameEnglish": "Wills and Testaments (Wasaayaa)",
+    "nameArabic": "كتاب الوصايا",
+    "hadithCount": 44
+  },
+  {
+    "id": 1056,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 56,
+    "nameEnglish": "Fighting for the Cause of Allah (Jihaad)",
+    "nameArabic": "كتاب الجهاد والسير",
+    "hadithCount": 294
+  },
+  {
+    "id": 1057,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 57,
+    "nameEnglish": "One-fifth of Booty to the Cause of Allah (Khumus)",
+    "nameArabic": "كتاب فرض الخمس",
+    "hadithCount": 63
+  },
+  {
+    "id": 1058,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 58,
+    "nameEnglish": "Jizyah and Mawaada'ah",
+    "nameArabic": "كتاب الجزية والموادعة",
+    "hadithCount": 30
+  },
+  {
+    "id": 1059,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 59,
+    "nameEnglish": "Beginning of Creation",
+    "nameArabic": "كتاب بدء الخلق",
+    "hadithCount": 131
+  },
+  {
+    "id": 1060,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 60,
+    "nameEnglish": "Prophets",
+    "nameArabic": "كتاب أحاديث الأنبياء",
+    "hadithCount": 154
+  },
+  {
+    "id": 1061,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 61,
+    "nameEnglish": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+    "nameArabic": "كتاب المناقب",
+    "hadithCount": 151
+  },
+  {
+    "id": 1062,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 62,
+    "nameEnglish": "Companions of the Prophet",
+    "nameArabic": "كتاب فضائل أصحاب النبى صلى الله عليه وسلم",
+    "hadithCount": 120
+  },
+  {
+    "id": 1063,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 63,
+    "nameEnglish": "Merits of the Helpers in Madinah (Ansaar)",
+    "nameArabic": "كتاب مناقب الأنصار",
+    "hadithCount": 172
+  },
+  {
+    "id": 1064,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 64,
+    "nameEnglish": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+    "nameArabic": "كتاب المغازى",
+    "hadithCount": 488
+  },
+  {
+    "id": 1065,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 65,
+    "nameEnglish": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+    "nameArabic": "كتاب التفسير",
+    "hadithCount": 499
+  },
+  {
+    "id": 1066,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 66,
+    "nameEnglish": "Virtues of the Qur'an",
+    "nameArabic": "كتاب فضائل القرآن",
+    "hadithCount": 87
+  },
+  {
+    "id": 1067,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 67,
+    "nameEnglish": "Wedlock, Marriage (Nikaah)",
+    "nameArabic": "كتاب النكاح",
+    "hadithCount": 183
+  },
+  {
+    "id": 1068,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 68,
+    "nameEnglish": "Divorce",
+    "nameArabic": "كتاب الطلاق",
+    "hadithCount": 95
+  },
+  {
+    "id": 1069,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 69,
+    "nameEnglish": "Supporting the Family",
+    "nameArabic": "كتاب النفقات",
+    "hadithCount": 22
+  },
+  {
+    "id": 1070,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 70,
+    "nameEnglish": "Food, Meals",
+    "nameArabic": "كتاب الأطعمة",
+    "hadithCount": 95
+  },
+  {
+    "id": 1071,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 71,
+    "nameEnglish": "Sacrifice on Occasion of Birth (`Aqiqa)",
+    "nameArabic": "كتاب العقيقة",
+    "hadithCount": 9
+  },
+  {
+    "id": 1072,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 72,
+    "nameEnglish": "Hunting, Slaughtering",
+    "nameArabic": "كتاب الذبائح والصيد",
+    "hadithCount": 69
+  },
+  {
+    "id": 1073,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 73,
+    "nameEnglish": "Al-Adha Festival Sacrifice (Adaahi)",
+    "nameArabic": "كتاب الأضاحي",
+    "hadithCount": 30
+  },
+  {
+    "id": 1074,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 74,
+    "nameEnglish": "Drinks",
+    "nameArabic": "كتاب الأشربة",
+    "hadithCount": 65
+  },
+  {
+    "id": 1075,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 75,
+    "nameEnglish": "Patients",
+    "nameArabic": "كتاب المرضى",
+    "hadithCount": 37
+  },
+  {
+    "id": 1076,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 76,
+    "nameEnglish": "Medicine",
+    "nameArabic": "كتاب الطب",
+    "hadithCount": 93
+  },
+  {
+    "id": 1077,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 77,
+    "nameEnglish": "Dress",
+    "nameArabic": "كتاب اللباس",
+    "hadithCount": 185
+  },
+  {
+    "id": 1078,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 78,
+    "nameEnglish": "Good Manners and Form (Al-Adab)",
+    "nameArabic": "كتاب الأدب",
+    "hadithCount": 250
+  },
+  {
+    "id": 1079,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 79,
+    "nameEnglish": "Asking Permission",
+    "nameArabic": "كتاب الاستئذان",
+    "hadithCount": 75
+  },
+  {
+    "id": 1080,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 80,
+    "nameEnglish": "Invocations",
+    "nameArabic": "كتاب الدعوات",
+    "hadithCount": 106
+  },
+  {
+    "id": 1081,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 81,
+    "nameEnglish": "To make the Heart Tender (Ar-Riqaq)",
+    "nameArabic": "كتاب الرقاق",
+    "hadithCount": 181
+  },
+  {
+    "id": 1082,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 82,
+    "nameEnglish": "Divine Will (Al-Qadar)",
+    "nameArabic": "كتاب القدر",
+    "hadithCount": 26
+  },
+  {
+    "id": 1083,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 83,
+    "nameEnglish": "Oaths and Vows",
+    "nameArabic": "كتاب الأيمان والنذور",
+    "hadithCount": 84
+  },
+  {
+    "id": 1084,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 84,
+    "nameEnglish": "Expiation for Unfulfilled Oaths",
+    "nameArabic": "كتاب كفارات الأيمان",
+    "hadithCount": 15
+  },
+  {
+    "id": 1085,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 85,
+    "nameEnglish": "Laws of Inheritance (Al-Faraa'id)",
+    "nameArabic": "كتاب الفرائض",
+    "hadithCount": 47
+  },
+  {
+    "id": 1086,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 86,
+    "nameEnglish": "Limits and Punishments set by Allah (Hudood)",
+    "nameArabic": "كتاب الحدود",
+    "hadithCount": 81
+  },
+  {
+    "id": 1087,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 87,
+    "nameEnglish": "Blood Money (Ad-Diyat)",
+    "nameArabic": "كتاب الديات",
+    "hadithCount": 55
+  },
+  {
+    "id": 1088,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 88,
+    "nameEnglish": "Apostates",
+    "nameArabic": "كتاب استتابة المرتدين والمعاندين وقتالهم",
+    "hadithCount": 21
+  },
+  {
+    "id": 1089,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 89,
+    "nameEnglish": "(Statements made under) Coercion",
+    "nameArabic": "كتاب الإكراه",
+    "hadithCount": 13
+  },
+  {
+    "id": 1090,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 90,
+    "nameEnglish": "Tricks",
+    "nameArabic": "كتاب الحيل",
+    "hadithCount": 28
+  },
+  {
+    "id": 1091,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 91,
+    "nameEnglish": "Interpretation of Dreams",
+    "nameArabic": "كتاب التعبير",
+    "hadithCount": 61
+  },
+  {
+    "id": 1092,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 92,
+    "nameEnglish": "Afflictions and the End of the World",
+    "nameArabic": "كتاب الفتن",
+    "hadithCount": 83
+  },
+  {
+    "id": 1093,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 93,
+    "nameEnglish": "Judgments (Ahkaam)",
+    "nameArabic": "كتاب الأحكام",
+    "hadithCount": 84
+  },
+  {
+    "id": 1094,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 94,
+    "nameEnglish": "Wishes",
+    "nameArabic": "كتاب التمنى",
+    "hadithCount": 20
+  },
+  {
+    "id": 1095,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 95,
+    "nameEnglish": "Accepting Information Given by a Truthful Person",
+    "nameArabic": "كتاب أخبار الآحاد",
+    "hadithCount": 21
+  },
+  {
+    "id": 1096,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 96,
+    "nameEnglish": "Holding Fast to the Qur'an and Sunnah",
+    "nameArabic": "كتاب الاعتصام بالكتاب والسنة",
+    "hadithCount": 97
+  },
+  {
+    "id": 1097,
+    "collection": "Saheeh Bukhari",
+    "bookNumber": 97,
+    "nameEnglish": "Oneness, Uniqueness of Allah (Tawheed)",
+    "nameArabic": "كتاب التوحيد",
+    "hadithCount": 188
+  },
+  {
+    "id": 2001,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 1,
+    "nameEnglish": "The Book of Faith",
+    "nameArabic": "كتاب الإيمان",
+    "hadithCount": 439
+  },
+  {
+    "id": 2002,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 2,
+    "nameEnglish": "The Book of Purification",
+    "nameArabic": "كتاب الطهارة",
+    "hadithCount": 144
+  },
+  {
+    "id": 2003,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 3,
+    "nameEnglish": "The Book of Menstruation",
+    "nameArabic": "كتاب الحيض",
+    "hadithCount": 157
+  },
+  {
+    "id": 2004,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 4,
+    "nameEnglish": "The Book of Prayers",
+    "nameArabic": "كتاب الصلاة",
+    "hadithCount": 322
+  },
+  {
+    "id": 2005,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 5,
+    "nameEnglish": "The Book of Mosques and Places of Prayer",
+    "nameArabic": "كتاب الْمَسَاجِدِ وَمَوَاضِعِ الصَّلاَةِ",
+    "hadithCount": 402
+  },
+  {
+    "id": 2006,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 6,
+    "nameEnglish": "The Book of Prayer - Travellers",
+    "nameArabic": "كتاب صلاة المسافرين وقصرها",
+    "hadithCount": 378
+  },
+  {
+    "id": 2007,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 7,
+    "nameEnglish": "The Book of Prayer - Friday",
+    "nameArabic": "كتاب الجمعة",
+    "hadithCount": 93
+  },
+  {
+    "id": 2008,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 8,
+    "nameEnglish": "The Book of Prayer - Two Eids",
+    "nameArabic": "كتاب صلاة العيدين",
+    "hadithCount": 24
+  },
+  {
+    "id": 2009,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 9,
+    "nameEnglish": "The Book of Prayer - Rain",
+    "nameArabic": "كتاب صلاة الاستسقاء‏",
+    "hadithCount": 19
+  },
+  {
+    "id": 2010,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 10,
+    "nameEnglish": "The Book of Prayer - Eclipses",
+    "nameArabic": "كتاب الكسوف",
+    "hadithCount": 31
+  },
+  {
+    "id": 2011,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 11,
+    "nameEnglish": "The Book of Prayer - Funerals",
+    "nameArabic": "كتاب الجنائز",
+    "hadithCount": 138
+  },
+  {
+    "id": 2012,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 12,
+    "nameEnglish": "The Book of Zakat",
+    "nameArabic": "كتاب الزكاة",
+    "hadithCount": 231
+  },
+  {
+    "id": 2013,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 13,
+    "nameEnglish": "The Book of Fasting",
+    "nameArabic": "كتاب الصيام",
+    "hadithCount": 285
+  },
+  {
+    "id": 2014,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 14,
+    "nameEnglish": "The Book of I'tikaf",
+    "nameArabic": "كتاب الاعتكاف",
+    "hadithCount": 11
+  },
+  {
+    "id": 2015,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 15,
+    "nameEnglish": "The Book of Pilgrimage",
+    "nameArabic": "كتاب الحج",
+    "hadithCount": 601
+  },
+  {
+    "id": 2016,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 16,
+    "nameEnglish": "The Book of Marriage",
+    "nameArabic": "كتاب النكاح",
+    "hadithCount": 169
+  },
+  {
+    "id": 2017,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 17,
+    "nameEnglish": "The Book of Suckling",
+    "nameArabic": "كتاب الرضاع",
+    "hadithCount": 84
+  },
+  {
+    "id": 2018,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 18,
+    "nameEnglish": "The Book of Divorce",
+    "nameArabic": "كتاب الطلاق",
+    "hadithCount": 87
+  },
+  {
+    "id": 2019,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 19,
+    "nameEnglish": "The Book of Invoking Curses",
+    "nameArabic": "كتاب اللعان",
+    "hadithCount": 27
+  },
+  {
+    "id": 2020,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 20,
+    "nameEnglish": "The Book of Emancipating Slaves",
+    "nameArabic": "كتاب العتق",
+    "hadithCount": 30
+  },
+  {
+    "id": 2021,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 21,
+    "nameEnglish": "The Book of Transactions",
+    "nameArabic": "كتاب البيوع",
+    "hadithCount": 160
+  },
+  {
+    "id": 2022,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 22,
+    "nameEnglish": "The Book of Musaqah",
+    "nameArabic": "كتاب المساقاة",
+    "hadithCount": 178
+  },
+  {
+    "id": 2023,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 23,
+    "nameEnglish": "The Book of the Rules of Inheritance",
+    "nameArabic": "كتاب الفرائض",
+    "hadithCount": 23
+  },
+  {
+    "id": 2024,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 24,
+    "nameEnglish": "The Book of Gifts",
+    "nameArabic": "كتاب الهبات",
+    "hadithCount": 41
+  },
+  {
+    "id": 2025,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 25,
+    "nameEnglish": "The Book of Wills",
+    "nameArabic": "كتاب الوصية",
+    "hadithCount": 31
+  },
+  {
+    "id": 2026,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 26,
+    "nameEnglish": "The Book of Vows",
+    "nameArabic": "كتاب النذر",
+    "hadithCount": 18
+  },
+  {
+    "id": 2027,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 27,
+    "nameEnglish": "The Book of Oaths",
+    "nameArabic": "كتاب الأيمان",
+    "hadithCount": 88
+  },
+  {
+    "id": 2028,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 28,
+    "nameEnglish": "The Book of Oaths, Muharibin, Qasas (Retaliation), and Diyat (Blood Money)",
+    "nameArabic": "كتاب القسامة والمحاربين والقصاص والديات",
+    "hadithCount": 56
+  },
+  {
+    "id": 2029,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 29,
+    "nameEnglish": "The Book of Legal Punishments",
+    "nameArabic": "كتاب الحدود",
+    "hadithCount": 72
+  },
+  {
+    "id": 2030,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 30,
+    "nameEnglish": "The Book of Judicial Decisions",
+    "nameArabic": "كتاب الأقضية",
+    "hadithCount": 28
+  },
+  {
+    "id": 2031,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 31,
+    "nameEnglish": "The Book of Lost Property",
+    "nameArabic": "كتاب اللقطة",
+    "hadithCount": 20
+  },
+  {
+    "id": 2032,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 32,
+    "nameEnglish": "The Book of Jihad and Expeditions",
+    "nameArabic": "كتاب الجهاد والسير",
+    "hadithCount": 182
+  },
+  {
+    "id": 2033,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 33,
+    "nameEnglish": "The Book on Government",
+    "nameArabic": "كتاب الإمارة",
+    "hadithCount": 266
+  },
+  {
+    "id": 2034,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 34,
+    "nameEnglish": "The Book of Hunting, Slaughter, and what may be Eaten",
+    "nameArabic": "كتاب الصيد والذبائح وما يؤكل من الحيوان",
+    "hadithCount": 92
+  },
+  {
+    "id": 2035,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 35,
+    "nameEnglish": "The Book of Sacrifices",
+    "nameArabic": "كتاب الأضاحى",
+    "hadithCount": 62
+  },
+  {
+    "id": 2036,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 36,
+    "nameEnglish": "The Book of Drinks",
+    "nameArabic": "كتاب الأشربة",
+    "hadithCount": 257
+  },
+  {
+    "id": 2037,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 37,
+    "nameEnglish": "The Book of Clothes and Adornment",
+    "nameArabic": "كتاب اللباس والزينة",
+    "hadithCount": 193
+  },
+  {
+    "id": 2038,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 38,
+    "nameEnglish": "The Book of Manners and Etiquette",
+    "nameArabic": "كتاب الآداب",
+    "hadithCount": 60
+  },
+  {
+    "id": 2039,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 39,
+    "nameEnglish": "The Book of Greetings",
+    "nameArabic": "كتاب السلام",
+    "hadithCount": 212
+  },
+  {
+    "id": 2040,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 40,
+    "nameEnglish": "The Book Concerning the Use of Correct Words",
+    "nameArabic": "كتاب الألفاظ من الأدب وغيرها",
+    "hadithCount": 23
+  },
+  {
+    "id": 2041,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 41,
+    "nameEnglish": "The Book of Poetry",
+    "nameArabic": "كتاب الشعر",
+    "hadithCount": 11
+  },
+  {
+    "id": 2042,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 42,
+    "nameEnglish": "The Book of Dreams",
+    "nameArabic": "كتاب الرؤيا",
+    "hadithCount": 41
+  },
+  {
+    "id": 2043,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 43,
+    "nameEnglish": "The Book of Virtues",
+    "nameArabic": "كتاب الفضائل",
+    "hadithCount": 226
+  },
+  {
+    "id": 2044,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 44,
+    "nameEnglish": "The Book of the Merits of the Companions",
+    "nameArabic": "كتاب فضائل الصحابة رضى الله تعالى عنهم",
+    "hadithCount": 328
+  },
+  {
+    "id": 2045,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 45,
+    "nameEnglish": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinship",
+    "nameArabic": "كتاب البر والصلة والآداب",
+    "hadithCount": 217
+  },
+  {
+    "id": 2046,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 46,
+    "nameEnglish": "The Book of Destiny",
+    "nameArabic": "كتاب القدر",
+    "hadithCount": 52
+  },
+  {
+    "id": 2047,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 47,
+    "nameEnglish": "The Book of Knowledge",
+    "nameArabic": "كتاب العلم",
+    "hadithCount": 30
+  },
+  {
+    "id": 2048,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 48,
+    "nameEnglish": "The Book Pertaining to the Remembrance of Allah, Supplication, Repentance and Seeking Forgiveness",
+    "nameArabic": "كتاب الذكر والدعاء والتوبة والاستغفار",
+    "hadithCount": 127
+  },
+  {
+    "id": 2049,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 49,
+    "nameEnglish": "The Book of Heart-Melting Traditions",
+    "nameArabic": "كتاب الرقاق",
+    "hadithCount": 15
+  },
+  {
+    "id": 2050,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 50,
+    "nameEnglish": "The Book of Repentance",
+    "nameArabic": "كتاب التوبة",
+    "hadithCount": 68
+  },
+  {
+    "id": 2051,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 51,
+    "nameEnglish": "Characteristics of The Hypocrites And Rulings Concerning Them",
+    "nameArabic": "كتاب صفات المنافقين وأحكامهم",
+    "hadithCount": 21
+  },
+  {
+    "id": 2052,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 52,
+    "nameEnglish": "Characteristics of the Day of Judgment, Paradise, and Hell",
+    "nameArabic": "كتاب صفة القيامة والجنة والنار",
+    "hadithCount": 82
+  },
+  {
+    "id": 2053,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 53,
+    "nameEnglish": "The Book of Paradise, its Description, its Bounties and its Inhabitants",
+    "nameArabic": "كتاب الجنة وصفة نعيمها وأهلها",
+    "hadithCount": 103
+  },
+  {
+    "id": 2054,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 54,
+    "nameEnglish": "The Book of Tribulations and Portents of the Last Hour",
+    "nameArabic": "كتاب الفتن وأشراط الساعة",
+    "hadithCount": 177
+  },
+  {
+    "id": 2055,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 55,
+    "nameEnglish": "The Book of Zuhd and Softening of Hearts",
+    "nameArabic": "كتاب الزهد والرقائق",
+    "hadithCount": 96
+  },
+  {
+    "id": 2056,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 56,
+    "nameEnglish": "The Book of Commentary on the Qur'an",
+    "nameArabic": "كتاب التفسير",
+    "hadithCount": 40
+  },
+  {
+    "id": 2000,
+    "collection": "Saheeh Muslim",
+    "bookNumber": 0,
+    "nameEnglish": "Introduction",
+    "nameArabic": "المقدمة",
+    "hadithCount": 91
+  }
+]

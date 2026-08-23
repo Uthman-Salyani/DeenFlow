@@ -10,6 +10,7 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
+import com.uthman.deenflow.data.local.entity.AyahEntity
 
 class QuranViewModel(application: Application) : AndroidViewModel(application) {
 
@@ -18,6 +19,9 @@ class QuranViewModel(application: Application) : AndroidViewModel(application) {
     private val _surahs = MutableStateFlow<List<SurahEntity>>(emptyList())
     val surahs: StateFlow<List<SurahEntity>> = _surahs.asStateFlow()
 
+    private val _juzStartAyahs = MutableStateFlow<List<AyahEntity>>(emptyList())
+    val juzStartAyahs: StateFlow<List<AyahEntity>> = _juzStartAyahs.asStateFlow()
+
     init {
         val db = AppDatabase.getInstance(application)
         repository = QuranRepository(db.surahDao(), db.ayahDao())
@@ -25,6 +29,11 @@ class QuranViewModel(application: Application) : AndroidViewModel(application) {
         viewModelScope.launch {
             repository.getAllSurahs().collect { surahList ->
                 _surahs.value = surahList
+            }
+        }
+        viewModelScope.launch {
+            repository.getJuzStartAyahs().collect { list ->
+                _juzStartAyahs.value = list
             }
         }
     }

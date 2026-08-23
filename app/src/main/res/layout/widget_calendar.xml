@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:background="@drawable/widget_rounded_background"
-    android:padding="12dp">
+    android:background="@drawable/widget_rounded_background">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:scaleType="fitXY"
+        android:scaleX="1.15"
+        android:scaleY="1.2"
+        android:src="@drawable/ic_mosque_skyline"
+        android:tint="#D4AF37"
+        android:alpha="0.14" />
 
     <LinearLayout
         android:id="@+id/widget_content_group"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
+        android:padding="12dp"
         android:visibility="visible">
 
         <LinearLayout
@@ -19,20 +29,20 @@
             android:orientation="horizontal"
             android:gravity="center_vertical">
 
-            <FrameLayout
-                android:layout_width="40dp"
-                android:layout_height="40dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center_horizontal">
+
                 <ImageView
-                    android:layout_width="40dp"
-                    android:layout_height="40dp"
-                    android:background="@drawable/widget_circle_gold" />
-                <ImageView
-                    android:layout_width="32dp"
-                    android:layout_height="32dp"
-                    android:layout_marginStart="14dp"
-                    android:layout_marginTop="4dp"
-                    android:background="@drawable/widget_circle_cutout" />
-            </FrameLayout>
+                    android:layout_width="49dp"
+                    android:layout_height="56dp"
+                    android:src="@mipmap/ic_launcher_round" />
+
+
+
+            </LinearLayout>
 
             <FrameLayout
                 android:layout_width="0dp"
@@ -58,7 +68,6 @@
                     android:textSize="30sp"
                     android:textStyle="bold" />
             </LinearLayout>
-
         </LinearLayout>
 
         <TextView
@@ -124,11 +133,11 @@
     <TextView
         android:id="@+id/widget_empty_message"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:gravity="center"
         android:text="Set a date in DeenFlow"
         android:textColor="#3B2F1E"
         android:textSize="14sp"
         android:visibility="gone" />
 
-</LinearLayout>
+</FrameLayout>

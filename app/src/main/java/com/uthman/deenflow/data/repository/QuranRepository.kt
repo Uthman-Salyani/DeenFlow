@@ -9,4 +9,6 @@ class QuranRepository(
 ) {
     fun getAllSurahs() = surahDao.getAllSurahs()
     fun getAyahsForSurah(surahNumber: Int) = ayahDao.getAyahsForSurah(surahNumber)
+    fun getAyahsForJuz(juzNumber: Int) = ayahDao.getAyahsForJuz(juzNumber)
+    fun getJuzStartAyahs() = ayahDao.getJuzStartAyahs()
 }

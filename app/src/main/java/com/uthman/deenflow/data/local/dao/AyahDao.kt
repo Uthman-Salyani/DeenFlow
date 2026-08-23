@@ -17,6 +17,12 @@ interface AyahDao {
     @Query("SELECT * FROM ayahs WHERE isBookmarked = 1")
     fun getBookmarkedAyahs(): Flow<List<AyahEntity>>
 
+    @Query("SELECT * FROM ayahs WHERE juz = :juzNumber ORDER BY surahNumber ASC, ayahNumberInSurah ASC")
+    fun getAyahsForJuz(juzNumber: Int): Flow<List<AyahEntity>>
+
+    @Query("SELECT * FROM ayahs WHERE id IN (SELECT MIN(id) FROM ayahs GROUP BY juz) ORDER BY juz ASC")
+    fun getJuzStartAyahs(): Flow<List<AyahEntity>>
+
     @Update
     suspend fun updateAyah(ayah: AyahEntity)
 

@@ -62,7 +62,7 @@ class DeenFlowWidgetProvider : AppWidgetProvider() {
                 views.setTextViewText(R.id.widget_arabic_month, HijriMonths.arabic(displayDate.month))
                 views.setTextViewText(R.id.widget_arabic_day, HijriMonths.toArabicIndicNumeral(displayDate.day))
 
-                val gregorianDate = SimpleDateFormat("MMM dd\nyyyy", Locale.US).format(Date())
+                val gregorianDate = SimpleDateFormat("MMM dd", Locale.US).format(Date())
                 views.setTextViewText(R.id.widget_gregorian_date, gregorianDate)
                 views.setTextViewText(
                     R.id.widget_hijri_month_day,

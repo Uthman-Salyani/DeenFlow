@@ -26,20 +26,19 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_vertical">
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
 
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:gravity="center_horizontal">
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
 
                 <ImageView
                     android:layout_width="49dp"
                     android:layout_height="56dp"
                     android:src="@mipmap/ic_launcher_round" />
-
 
 
             </LinearLayout>
@@ -52,14 +51,16 @@
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:gravity="end">
+                android:gravity="end"
+                android:orientation="vertical">
+
                 <TextView
                     android:id="@+id/widget_arabic_month"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="#B8860B"
                     android:textSize="25sp" />
+
                 <TextView
                     android:id="@+id/widget_arabic_day"
                     android:layout_width="wrap_content"
@@ -87,8 +88,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
-            android:orientation="horizontal"
-            android:gravity="center_vertical">
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
 
             <TextView
                 android:id="@+id/widget_gregorian_date"
@@ -97,7 +98,9 @@
                 android:layout_weight="1"
                 android:gravity="center"
                 android:textColor="#3B2F1E"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:maxLines="1"
+                android:ellipsize="end" />
 
             <ImageView
                 android:layout_width="1dp"
